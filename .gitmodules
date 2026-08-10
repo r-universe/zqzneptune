@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/zqzneptune/zqzneptune.r-universe.dev
 	branch = HEAD
+[submodule "CGExplorer"]
+	path = CGExplorer
+	url = https://github.com/zqzneptune/CGExplorer
