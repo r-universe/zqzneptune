@@ -5,3 +5,9 @@
 [submodule "CGExplorer"]
 	path = CGExplorer
 	url = https://github.com/zqzneptune/CGExplorer
+[submodule "ComplexMap"]
+	path = ComplexMap
+	url = https://github.com/zqzneptune/ComplexMap
+[submodule "ShinyCITExpresso"]
+	path = ShinyCITExpresso
+	url = https://github.com/zqzneptune/ShinyCITExpresso
